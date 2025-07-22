@@ -1,0 +1,6 @@
+{
+  "entries": [
+    { "key": "hello", "value": "你好" },
+    { "key": "start_game", "value": "开始游戏" }
+  ]
+}
