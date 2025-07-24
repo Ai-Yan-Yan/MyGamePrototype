@@ -1,6 +1,7 @@
 {
   "entries": [
     { "key": "hello", "value": "Hello" },
-    { "key": "start_game", "value": "Start Games" }
+    { "key": "start_game", "value": "Start Games" },
+    {"key": "language","value": "English"}
   ]
 }

@@ -12,7 +12,7 @@ public class LocalizationManager : MonoBehaviour
     public static LocalizationManager Instance { get; private set; }
 
     private Dictionary<string, string> _languageTable = new();
-    public SystemLanguage CurrentLanguage { get; private set; } = SystemLanguage.English;
+    public SystemLanguage CurrentLanguage { get; private set; } = SystemLanguage.Chinese;
 
     private void Awake()
     {
