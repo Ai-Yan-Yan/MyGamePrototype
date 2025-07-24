@@ -23,6 +23,7 @@ public class LanguageWrapper
         {
             dict[entry.key] = entry.value;
         }
+
         return dict;
     }
 }
